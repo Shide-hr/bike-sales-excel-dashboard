@@ -7,6 +7,8 @@ The goal of the project is to analyze customer data and explore factors associat
 
 ## Dashboard
 
+![Bike Sales Dashboard](bike_sales_dashboard.png)
+
 The dashboard includes:
 
 - Average income by gender and bike purchase status
